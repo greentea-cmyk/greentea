@@ -60,7 +60,7 @@ export const PHOTOGRAPHY_PROJECTS: PhotoProject[] = [
     category: 'architecture',
     year: 2025,
     location: 'Big Sur, California',
-    imageSrc: '/src/assets/images/hero_photographer_art_1792241960673.jpg',
+    imageSrc: '/public/assets/images/hero_photographer_art_1792241960673.jpg',
     aspectRatio: '16:9',
     isHero: true,
     exif: {
@@ -91,7 +91,7 @@ export const PHOTOGRAPHY_PROJECTS: PhotoProject[] = [
     category: 'architecture',
     year: 2024,
     location: 'Marfa, Chihuahuan Desert',
-    imageSrc: '/src/assets/images/photo_architectural_brutalist_1792241960740.jpg',
+    imageSrc: '/public/assets/images/photo_architectural_brutalist_1792241960740.jpg',
     aspectRatio: '4:3',
     exif: {
       camera: 'Hasselblad X2D 100C',
@@ -120,7 +120,7 @@ export const PHOTOGRAPHY_PROJECTS: PhotoProject[] = [
     category: 'editorial',
     year: 2025,
     location: 'Copenhagen, Denmark',
-    imageSrc: '/src/assets/images/photo_editorial_portrait_1792241960331.jpg',
+    imageSrc: '/public/assets/images/photo_editorial_portrait_1792241960331.jpg',
     aspectRatio: '3:4',
     exif: {
       camera: 'Leica SL2-S',
@@ -150,7 +150,7 @@ export const PHOTOGRAPHY_PROJECTS: PhotoProject[] = [
     category: 'documentary',
     year: 2024,
     location: 'Bordeaux Historic Quarter, France',
-    imageSrc: '/src/assets/images/photo_street_documentary_1792241961379.jpg',
+    imageSrc: '/public/assets/images/photo_street_documentary_1792241961379.jpg',
     aspectRatio: '4:3',
     exif: {
       camera: 'Leica Q3',
@@ -179,7 +179,7 @@ export const PHOTOGRAPHY_PROJECTS: PhotoProject[] = [
     category: 'landscape',
     year: 2025,
     location: 'Reynisdrangar, Vík, Iceland',
-    imageSrc: '/src/assets/images/photo_landscape_nordic_1792241962595.jpg',
+    imageSrc: '/public/assets/images/photo_landscape_nordic_1792241962595.jpg',
     aspectRatio: '16:9',
     exif: {
       camera: 'Hasselblad X2D 100C',
